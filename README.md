@@ -69,8 +69,8 @@ The backend structure should be written with routes -> controllers -> repositori
 
 **Frontend**
 
-For frontend any framework like angularjs, react or ember could be used (jQuery can be used but should not be used as DOM-manipulation)
-Framework like underscore and lodash is also allowed.
+For frontend AngularJS (https://angularjs.org/) should be used (jQuery can also be used but should not be used as DOM-manipulation)
+Framework like underscore (http://underscorejs.org/) and lodash (https://lodash.com/) is also allowed.
 
 The css should be written in sass, less or stylus. Bootstrap is not allowed.
 
