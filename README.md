@@ -71,12 +71,17 @@ The backend structure should be written with routes -> controllers -> repositori
 
 For frontend AngularJS (https://angularjs.org/) should be used (jQuery can also be used but should not be used as DOM-manipulation)
 Framework like underscore (http://underscorejs.org/) and lodash (https://lodash.com/) is also allowed.
+Browser support for IE10+, Chrome, Firefox and Safari is a requirement.
 
 The css should be written in sass, less or stylus. Bootstrap is not allowed.
 
 **Unittest**
 
 Development should be testdriven and unit testing should be used for php with https://phpunit.de/. No unit test needs to be written for frontend but it ofcourse gives a plus if its done (should be tested with karma and jasmine)
+
+**How to send in the assignment**
+
+Fork this repo to begin the assignment. Create a branch with you github-username and do all development there. When you are done send a pull-request back to us.
 
 **Last words**
 
