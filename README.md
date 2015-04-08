@@ -55,7 +55,7 @@ BadgeRelation structure
 ```
 Badge api controller
 - all (GET /api/badge)
-- read (GET /api/badge/:id)
+- byid (GET /api/badge/:id)
 - insert (POST /api/badge)
 - update (PUT /api/badge/:id)
 - delete (DELETE /api/badge/:id)
