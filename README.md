@@ -11,7 +11,7 @@ Your assignment is to design a view that presents the ROI for our users. There s
 
 **ROI view**
 
-Should present the value of all leads that have a badge for a given timeframe, ie per day or per month. There should also be possible to toggle between different timeframes. Both the combined score and money should be presented in a nice way. It would also be nice to get the difference in percentage according to prior timeframe. The assignment don't state how the view should be design so graphs, textual-values, donut-graphs is allowed aslong as it looks nice ofcourse =) (grapical frontend libraries are allowed)
+Should present the calculated values of all leads that have a badge for a given timeframe, ie per day or per month. There should also be possible to toggle between different timeframes. Both the combined score and money should be presented in a nice way. It would also be nice to get the difference in percentage according to prior timeframe. The assignment don't state how the view should be designed so graphs, textual-values, donut-graphs is allowed aslong as it looks nice ofcourse =) (grapical frontend libraries are allowed)
 
 **Badge view**
 
