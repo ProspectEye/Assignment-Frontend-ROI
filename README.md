@@ -18,8 +18,16 @@ Should present the value of all leads that have a badge for a given timeframe, i
 Should be possible to add a new badge with a given score and money. Should be able to update a badge's score and money, should be able to delete a badge.
 In this assignment the badges should be connected to leads.
 
-Important!
-The views don't have to talk to eachother. So if a new badge is created the ROI view don't have to be updated. The ROI view can be with static data but it should consist of badge and leadrelation data
+Install
+------------------
+- Fork the master branch or download the zip for this repo.
+- Install php components with `php composer.phar install`
+- Install bower components with `bower install`
+- NOTE: if bower is not installed on computer you have to run `npm install -g bower` first
+- NOTE #2: if npm is not installed on computer you have to install it aswell https://nodejs.org/#download
+- Start a php webserver to the root path of the repo folder
+- Enter url http://localhost:[port]/public
+- Don't forget to run the unittests!
 
 Prerequisites
 ------------------
