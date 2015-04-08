@@ -1,0 +1,7 @@
+<span>{{titleLabel}}</span>
+<br><br>
+Badges:<br>
+<div ng-repeat="badge in bagdes">
+	{{badge.score}}
+</div>
+<span ng-show="bagdes.$resolved === true && bagdes.length === 0">No Badges</span>

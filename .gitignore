@@ -1,0 +1,5 @@
+node_modules/
+api/vendor
+public/bower_components
+
+.DS_Store
